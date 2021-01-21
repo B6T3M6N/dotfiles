@@ -198,7 +198,7 @@ hide_edge_borders both
 # finds out, if available)
 bar {
         #status_command i3status
-        status_command i3blocks -c /home/b6t3m6n/.config/i3/i3blocks.conf
+        status_command i3blocks -c /home/b4t3m4n/.config/i3/i3blocks.conf
 	colors {
 		background $bg-color
 	    	separator #757575
@@ -224,5 +224,5 @@ gaps outer 4
 #border_radius 5
 
 exec --no-startup-id picom -b
-exec_always --no-startup-id feh --bg-scale /home/b6t3m6n/.config/wallpaper/wallpaper.jpg
+exec_always --no-startup-id feh --bg-scale /home/b4t3m4n/.config/wallpaper/wallpaper.jpg
 
